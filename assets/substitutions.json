@@ -1,0 +1,965 @@
+{
+  "زيت": [
+    "زيت نباتي",
+    "زيت زيتون"
+  ],
+  "زيت نباتي": [
+    "زيت",
+    "زيت زيتون"
+  ],
+  "زيت زيتون": [
+    "زيت",
+    "زيت نباتي"
+  ],
+  "زبدة": [
+    "سمن",
+    "زيت",
+    "زيت جوز الهند"
+  ],
+  "سمن": [
+    "زبدة",
+    "زيت"
+  ],
+  "ghee": [
+    "butter",
+    "oil"
+  ],
+  "butter": [
+    "ghee",
+    "oil",
+    "coconut oil"
+  ],
+  "oil": [
+    "olive oil",
+    "vegetable oil"
+  ],
+  "olive oil": [
+    "oil",
+    "vegetable oil"
+  ],
+  "vegetable oil": [
+    "oil",
+    "olive oil"
+  ],
+  "coconut oil": [
+    "butter",
+    "oil"
+  ],
+  "بيض": [
+    "بذور الكتان المطحونة مع ماء",
+    "زبادي"
+  ],
+  "egg": [
+    "flaxseed + water",
+    "yogurt"
+  ],
+  "حليب": [
+    "حليب نباتي",
+    "حليب مبخر",
+    "ماء + حليب بودرة"
+  ],
+  "milk": [
+    "plant milk",
+    "evaporated milk",
+    "water + milk powder"
+  ],
+  "حليب نباتي": [
+    "حليب لوز",
+    "حليب صويا"
+  ],
+  "plant milk": [
+    "almond milk",
+    "soy milk"
+  ],
+  "زبادي": [
+    "لبن",
+    "حليب + ليمون"
+  ],
+  "yogurt": [
+    "labneh (thin)",
+    "milk + lemon"
+  ],
+  "لبنة": [
+    "زبادي مصفى"
+  ],
+  "labneh": [
+    "thick yogurt"
+  ],
+  "قشطة": [
+    "كريمة طبخ"
+  ],
+  "كريمة": [
+    "حليب مبخر",
+    "قشطة"
+  ],
+  "cream": [
+    "evaporated milk",
+    "yogurt"
+  ],
+  "جبن": [
+    "جبن كريمي",
+    "جبن موزاريلا"
+  ],
+  "cheese": [
+    "cream cheese",
+    "mozzarella"
+  ],
+  "جبن موزاريلا": [
+    "جبن",
+    "جبن حلوم"
+  ],
+  "mozzarella": [
+    "cheese",
+    "halloumi"
+  ],
+  "جبن شيدر": [
+    "جبن",
+    "موزاريلا"
+  ],
+  "cheddar": [
+    "cheese",
+    "mozzarella"
+  ],
+  "سكر": [
+    "عسل",
+    "سكر بني",
+    "محلّي ستيفيا"
+  ],
+  "sugar": [
+    "honey",
+    "brown sugar",
+    "stevia"
+  ],
+  "سكر بني": [
+    "سكر",
+    "عسل"
+  ],
+  "brown sugar": [
+    "sugar",
+    "molasses + sugar"
+  ],
+  "عسل": [
+    "سكر",
+    "دبس"
+  ],
+  "honey": [
+    "sugar",
+    "molasses"
+  ],
+  "دبس": [
+    "عسل",
+    "سكر بني"
+  ],
+  "molasses": [
+    "brown sugar",
+    "honey"
+  ],
+  "فانيليا": [
+    "سكر فانيليا"
+  ],
+  "vanilla": [
+    "vanilla sugar"
+  ],
+  "بيكنج باودر": [
+    "بيكنج صودا + كريم تارتر"
+  ],
+  "baking powder": [
+    "baking soda + cream of tartar"
+  ],
+  "بيكنج صودا": [
+    "بيكنج باودر"
+  ],
+  "baking soda": [
+    "baking powder"
+  ],
+  "نشا": [
+    "دقيق",
+    "تابيوكا",
+    "أرز مطحون"
+  ],
+  "starch": [
+    "flour",
+    "tapioca",
+    "rice flour"
+  ],
+  "cornstarch": [
+    "flour",
+    "tapioca",
+    "arrowroot"
+  ],
+  "طحين": [
+    "دقيق"
+  ],
+  "flour": [
+    "oat flour",
+    "almond flour"
+  ],
+  "دقيق": [
+    "طحين شوفان",
+    "دقيق لوز"
+  ],
+  "oat flour": [
+    "wheat flour"
+  ],
+  "almond flour": [
+    "wheat flour"
+  ],
+  "بيكنج شوكولاتة": [
+    "كاكاو + زبدة"
+  ],
+  "cocoa": [
+    "grated chocolate"
+  ],
+  "كاكاو": [
+    "شوكولاتة مبشورة"
+  ],
+  "ليمون": [
+    "خل تفاح",
+    "حامض ليمون"
+  ],
+  "lemon": [
+    "vinegar",
+    "lime"
+  ],
+  "خل": [
+    "ليمون"
+  ],
+  "vinegar": [
+    "lemon juice",
+    "lime juice"
+  ],
+  "خل بلسمي": [
+    "خل + سكر"
+  ],
+  "balsamic vinegar": [
+    "vinegar + sugar"
+  ],
+  "صويا صوص": [
+    "ملح + خل"
+  ],
+  "soy sauce": [
+    "salt + vinegar"
+  ],
+  "كاتشب": [
+    "صلصة طماطم + سكر"
+  ],
+  "ketchup": [
+    "tomato sauce + sugar"
+  ],
+  "مايونيز": [
+    "لبن + خردل",
+    "زبادي + خردل"
+  ],
+  "mayonnaise": [
+    "yogurt + mustard",
+    "buttermilk + mustard"
+  ],
+  "خردل": [
+    "مايونيز قليل + خل"
+  ],
+  "mustard": [
+    "light mayo + vinegar"
+  ],
+  "ملح": [
+    "صويا صوص قليل",
+    "ملح بحر"
+  ],
+  "salt": [
+    "light soy sauce"
+  ],
+  "فلفل": [
+    "فلفل أسود",
+    "بابريكا"
+  ],
+  "pepper": [
+    "black pepper",
+    "paprika"
+  ],
+  "فلفل أسود": [
+    "فلفل",
+    "بابريكا"
+  ],
+  "black pepper": [
+    "pepper",
+    "paprika"
+  ],
+  "بابريكا": [
+    "شطة"
+  ],
+  "paprika": [
+    "chili flakes"
+  ],
+  "شطة": [
+    "بابريكا حارة"
+  ],
+  "chili": [
+    "paprika"
+  ],
+  "كمون": [
+    "كزبرة ناشفة"
+  ],
+  "cumin": [
+    "ground coriander"
+  ],
+  "كزبرة": [
+    "بقدونس"
+  ],
+  "coriander": [
+    "parsley"
+  ],
+  "بقدونس": [
+    "كزبرة"
+  ],
+  "parsley": [
+    "coriander"
+  ],
+  "ريحان": [
+    "نعناع"
+  ],
+  "basil": [
+    "mint"
+  ],
+  "نعناع": [
+    "ريحان"
+  ],
+  "mint": [
+    "basil"
+  ],
+  "قرفة": [
+    "بهار سبع بهارات"
+  ],
+  "cinnamon": [
+    "mixed spice"
+  ],
+  "زنجبيل": [
+    "بودرة زنجبيل"
+  ],
+  "ginger": [
+    "ground ginger"
+  ],
+  "كركم": [
+    "بودرة كاري"
+  ],
+  "turmeric": [
+    "curry powder"
+  ],
+  "أرز": [
+    "برغل",
+    "كسكس"
+  ],
+  "rice": [
+    "bulgur",
+    "couscous"
+  ],
+  "برغل": [
+    "كسكس",
+    "أرز"
+  ],
+  "bulgur": [
+    "rice",
+    "couscous"
+  ],
+  "كسكس": [
+    "برغل",
+    "أرز"
+  ],
+  "couscous": [
+    "bulgur",
+    "rice"
+  ],
+  "مكرونة": [
+    "باستا",
+    "نودلز"
+  ],
+  "pasta": [
+    "noodles"
+  ],
+  "نودلز": [
+    "مكرونة"
+  ],
+  "noodles": [
+    "pasta"
+  ],
+  "خبز": [
+    "تورتيلا",
+    "أرز مع صوص"
+  ],
+  "bread": [
+    "tortilla",
+    "rice with sauce"
+  ],
+  "تورتيلا": [
+    "خبز رقيق"
+  ],
+  "دجاج": [
+    "صدور دجاج",
+    "أفخاذ دجاج"
+  ],
+  "chicken": [
+    "chicken breast",
+    "chicken thigh"
+  ],
+  "لحم": [
+    "لحم مفروم",
+    "ديك رومي مفروم"
+  ],
+  "meat": [
+    "ground beef",
+    "ground turkey"
+  ],
+  "لحم مفروم": [
+    "ديك رومي مفروم"
+  ],
+  "ground beef": [
+    "ground turkey"
+  ],
+  "ديك رومي": [
+    "لحم مفروم"
+  ],
+  "turkey": [
+    "ground beef"
+  ],
+  "سمك": [
+    "تونة",
+    "سلمون"
+  ],
+  "fish": [
+    "tuna",
+    "salmon"
+  ],
+  "تونة": [
+    "سلمون معلب"
+  ],
+  "tuna": [
+    "canned salmon"
+  ],
+  "سلمون": [
+    "تونة"
+  ],
+  "salmon": [
+    "tuna"
+  ],
+  "بيض مسلوق": [
+    "بيض"
+  ],
+  "طماطم": [
+    "صلصة طماطم",
+    "معجون طماطم"
+  ],
+  "tomato": [
+    "tomato sauce",
+    "tomato paste"
+  ],
+  "صلصة طماطم": [
+    "طماطم"
+  ],
+  "معجون طماطم": [
+    "صلصة طماطم"
+  ],
+  "ثوم": [
+    "بودرة ثوم",
+    "ثوم مهروس معلب"
+  ],
+  "garlic": [
+    "garlic powder",
+    "jarred garlic"
+  ],
+  "بصل": [
+    "كراث",
+    "شالوت"
+  ],
+  "onion": [
+    "leek",
+    "shallot"
+  ],
+  "فلفل رومي": [
+    "فلفل"
+  ],
+  "bell pepper": [
+    "pepper"
+  ],
+  "بطاطس": [
+    "بطاطا حلوة"
+  ],
+  "potato": [
+    "sweet potato"
+  ],
+  "كوسا": [
+    "باذنجان"
+  ],
+  "zucchini": [
+    "eggplant"
+  ],
+  "باذنجان": [
+    "كوسا"
+  ],
+  "eggplant": [
+    "zucchini"
+  ],
+  "جزر": [
+    "قرع"
+  ],
+  "carrot": [
+    "pumpkin"
+  ],
+  "سبانخ": [
+    "كرنب",
+    "خس"
+  ],
+  "spinach": [
+    "kale",
+    "lettuce"
+  ],
+  "خس": [
+    "جرجير"
+  ],
+  "lettuce": [
+    "arugula"
+  ],
+  "جرجير": [
+    "خس"
+  ],
+  "arugula": [
+    "lettuce"
+  ],
+  "فاصوليا": [
+    "حمص",
+    "فاصوليا بيضاء"
+  ],
+  "beans": [
+    "chickpeas",
+    "white beans"
+  ],
+  "حمص": [
+    "فاصوليا بيضاء"
+  ],
+  "chickpeas": [
+    "white beans"
+  ],
+  "عدس": [
+    "فاصوليا حمراء"
+  ],
+  "lentils": [
+    "kidney beans"
+  ],
+  "بازلاء": [
+    "ذرة"
+  ],
+  "peas": [
+    "corn"
+  ],
+  "ذرة": [
+    "بازلاء"
+  ],
+  "corn": [
+    "peas"
+  ],
+  "مرق": [
+    "ماء + مكعب مرق"
+  ],
+  "stock": [
+    "water + stock cube"
+  ],
+  "مكعب مرق": [
+    "مرق",
+    "ملح"
+  ],
+  "stock cube": [
+    "stock",
+    "salt"
+  ],
+  "لوز": [
+    "جوز"
+  ],
+  "almonds": [
+    "walnuts"
+  ],
+  "جوز": [
+    "لوز"
+  ],
+  "walnuts": [
+    "almonds"
+  ],
+  "سمسم": [
+    "فول سوداني مطحون"
+  ],
+  "sesame": [
+    "peanut powder"
+  ],
+  "فستق": [
+    "لوز"
+  ],
+  "pistachio": [
+    "almonds"
+  ],
+  "طحينة": [
+    "زبدة فول سوداني (قليل)"
+  ],
+  "tahini": [
+    "peanut butter (little)"
+  ],
+  "تمر": [
+    "عجوة",
+    "عسل"
+  ],
+  "dates": [
+    "date paste",
+    "honey"
+  ],
+  "ماء ورد": [
+    "ماء زهر"
+  ],
+  "rose water": [
+    "orange blossom water"
+  ],
+  "ماء زهر": [
+    "ماء ورد"
+  ],
+  "orange blossom water": [
+    "rose water"
+  ],
+  "زيت جوز الهند": [
+    "زبدة"
+  ],
+  "بذور الكتان المطحونة مع ماء": [
+    "بيض"
+  ],
+  "flaxseed + water": [
+    "egg"
+  ],
+  "حليب مبخر": [
+    "حليب",
+    "كريمة"
+  ],
+  "ماء + حليب بودرة": [
+    "حليب"
+  ],
+  "evaporated milk": [
+    "milk",
+    "cream"
+  ],
+  "water + milk powder": [
+    "milk"
+  ],
+  "حليب لوز": [
+    "حليب نباتي"
+  ],
+  "حليب صويا": [
+    "حليب نباتي"
+  ],
+  "almond milk": [
+    "plant milk"
+  ],
+  "soy milk": [
+    "plant milk"
+  ],
+  "لبن": [
+    "زبادي"
+  ],
+  "حليب + ليمون": [
+    "زبادي"
+  ],
+  "labneh (thin)": [
+    "yogurt"
+  ],
+  "milk + lemon": [
+    "yogurt"
+  ],
+  "زبادي مصفى": [
+    "لبنة"
+  ],
+  "thick yogurt": [
+    "labneh"
+  ],
+  "كريمة طبخ": [
+    "قشطة"
+  ],
+  "جبن كريمي": [
+    "جبن"
+  ],
+  "cream cheese": [
+    "cheese"
+  ],
+  "جبن حلوم": [
+    "جبن موزاريلا"
+  ],
+  "halloumi": [
+    "mozzarella"
+  ],
+  "موزاريلا": [
+    "جبن شيدر"
+  ],
+  "محلّي ستيفيا": [
+    "سكر"
+  ],
+  "stevia": [
+    "sugar"
+  ],
+  "molasses + sugar": [
+    "brown sugar"
+  ],
+  "سكر فانيليا": [
+    "فانيليا"
+  ],
+  "vanilla sugar": [
+    "vanilla"
+  ],
+  "بيكنج صودا + كريم تارتر": [
+    "بيكنج باودر"
+  ],
+  "baking soda + cream of tartar": [
+    "baking powder"
+  ],
+  "تابيوكا": [
+    "نشا"
+  ],
+  "أرز مطحون": [
+    "نشا"
+  ],
+  "tapioca": [
+    "starch",
+    "cornstarch"
+  ],
+  "rice flour": [
+    "starch"
+  ],
+  "arrowroot": [
+    "cornstarch"
+  ],
+  "طحين شوفان": [
+    "دقيق"
+  ],
+  "دقيق لوز": [
+    "دقيق"
+  ],
+  "wheat flour": [
+    "oat flour",
+    "almond flour"
+  ],
+  "كاكاو + زبدة": [
+    "بيكنج شوكولاتة"
+  ],
+  "grated chocolate": [
+    "cocoa"
+  ],
+  "شوكولاتة مبشورة": [
+    "كاكاو"
+  ],
+  "خل تفاح": [
+    "ليمون"
+  ],
+  "حامض ليمون": [
+    "ليمون"
+  ],
+  "lime": [
+    "lemon"
+  ],
+  "lemon juice": [
+    "vinegar"
+  ],
+  "lime juice": [
+    "vinegar"
+  ],
+  "خل + سكر": [
+    "خل بلسمي"
+  ],
+  "vinegar + sugar": [
+    "balsamic vinegar"
+  ],
+  "ملح + خل": [
+    "صويا صوص"
+  ],
+  "salt + vinegar": [
+    "soy sauce"
+  ],
+  "صلصة طماطم + سكر": [
+    "كاتشب"
+  ],
+  "tomato sauce + sugar": [
+    "ketchup"
+  ],
+  "لبن + خردل": [
+    "مايونيز"
+  ],
+  "زبادي + خردل": [
+    "مايونيز"
+  ],
+  "yogurt + mustard": [
+    "mayonnaise"
+  ],
+  "buttermilk + mustard": [
+    "mayonnaise"
+  ],
+  "مايونيز قليل + خل": [
+    "خردل"
+  ],
+  "light mayo + vinegar": [
+    "mustard"
+  ],
+  "صويا صوص قليل": [
+    "ملح"
+  ],
+  "ملح بحر": [
+    "ملح"
+  ],
+  "light soy sauce": [
+    "salt"
+  ],
+  "chili flakes": [
+    "paprika"
+  ],
+  "بابريكا حارة": [
+    "شطة"
+  ],
+  "كزبرة ناشفة": [
+    "كمون"
+  ],
+  "ground coriander": [
+    "cumin"
+  ],
+  "بهار سبع بهارات": [
+    "قرفة"
+  ],
+  "mixed spice": [
+    "cinnamon"
+  ],
+  "بودرة زنجبيل": [
+    "زنجبيل"
+  ],
+  "ground ginger": [
+    "ginger"
+  ],
+  "بودرة كاري": [
+    "كركم"
+  ],
+  "curry powder": [
+    "turmeric"
+  ],
+  "باستا": [
+    "مكرونة"
+  ],
+  "أرز مع صوص": [
+    "خبز"
+  ],
+  "tortilla": [
+    "bread"
+  ],
+  "rice with sauce": [
+    "bread"
+  ],
+  "خبز رقيق": [
+    "تورتيلا"
+  ],
+  "صدور دجاج": [
+    "دجاج"
+  ],
+  "أفخاذ دجاج": [
+    "دجاج"
+  ],
+  "chicken breast": [
+    "chicken"
+  ],
+  "chicken thigh": [
+    "chicken"
+  ],
+  "ديك رومي مفروم": [
+    "لحم",
+    "لحم مفروم"
+  ],
+  "ground turkey": [
+    "meat",
+    "ground beef"
+  ],
+  "سلمون معلب": [
+    "تونة"
+  ],
+  "canned salmon": [
+    "tuna"
+  ],
+  "tomato sauce": [
+    "tomato"
+  ],
+  "tomato paste": [
+    "tomato"
+  ],
+  "بودرة ثوم": [
+    "ثوم"
+  ],
+  "ثوم مهروس معلب": [
+    "ثوم"
+  ],
+  "garlic powder": [
+    "garlic"
+  ],
+  "jarred garlic": [
+    "garlic"
+  ],
+  "كراث": [
+    "بصل"
+  ],
+  "شالوت": [
+    "بصل"
+  ],
+  "leek": [
+    "onion"
+  ],
+  "shallot": [
+    "onion"
+  ],
+  "بطاطا حلوة": [
+    "بطاطس"
+  ],
+  "sweet potato": [
+    "potato"
+  ],
+  "قرع": [
+    "جزر"
+  ],
+  "pumpkin": [
+    "carrot"
+  ],
+  "كرنب": [
+    "سبانخ"
+  ],
+  "kale": [
+    "spinach"
+  ],
+  "فاصوليا بيضاء": [
+    "فاصوليا",
+    "حمص"
+  ],
+  "white beans": [
+    "beans",
+    "chickpeas"
+  ],
+  "فاصوليا حمراء": [
+    "عدس"
+  ],
+  "kidney beans": [
+    "lentils"
+  ],
+  "ماء + مكعب مرق": [
+    "مرق"
+  ],
+  "water + stock cube": [
+    "stock"
+  ],
+  "فول سوداني مطحون": [
+    "سمسم"
+  ],
+  "peanut powder": [
+    "sesame"
+  ],
+  "زبدة فول سوداني (قليل)": [
+    "طحينة"
+  ],
+  "peanut butter (little)": [
+    "tahini"
+  ],
+  "عجوة": [
+    "تمر"
+  ],
+  "date paste": [
+    "dates"
+  ]
+}
